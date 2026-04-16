@@ -2,23 +2,23 @@ import './index.css'
 
 function App() {
   return (
-    <div className="redirect-card">
-      <span className="subtext">The Atom Infrastructure</span>
+    <div className="redirect-container">
+      <span className="subtext">Infrastructure Update</span>
       
-      <div className="domain-info">
-        <h1>Domain Moved</h1>
-        <p>
-          The service at <strong>akhi.theoneatom.com</strong> has been permanently moved to our new infrastructure <span className="highlight-domain">akhi.theatom.lk</span>.
-        </p>
-      </div>
+      <h1 className="new-domain">akhi.theatom.lk</h1>
+      
+      <p className="description">
+        We've moved to a new permanent home. <br />
+        Please update your bookmarks to the new domain.
+      </p>
       
       <a href="https://akhi.theatom.lk" className="redirect-btn">
-        Enter akhi.theatom.lk
+        Visit New Site
       </a>
 
-      <div className="footer-note">
-        You are being redirected to our improved platform
-      </div>
+      <a href="https://akhi.theoneatom.com" className="footer-link">
+        Legacy Domain: akhi.theoneatom.com
+      </a>
     </div>
   )
 }
