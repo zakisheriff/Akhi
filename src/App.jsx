@@ -3,12 +3,12 @@ import './index.css'
 function App() {
   return (
     <div className="redirect-card">
-      <span className="subtext">System Notification</span>
+      <span className="subtext">The Atom Infrastructure</span>
       
       <div className="domain-info">
         <h1>Domain Moved</h1>
         <p>
-          The service at <strong>akhi.theoneatom.com</strong> has been permanently moved to our new infrastructure.
+          The service at <strong>akhi.theoneatom.com</strong> has been permanently moved to our new infrastructure <span className="highlight-domain">akhi.theatom.lk</span>.
         </p>
       </div>
       
@@ -17,7 +17,7 @@ function App() {
       </a>
 
       <div className="footer-note">
-        Redirecting you to the Atom ecosystem
+        You are being redirected to our improved platform
       </div>
     </div>
   )
