@@ -5,7 +5,9 @@ function App() {
     <div className="redirect-container">
       <span className="subtext">Infrastructure Update</span>
       
-      <h1 className="new-domain">akhi.theatom.lk</h1>
+      <a href="https://akhi.theatom.lk" className="new-domain-link">
+        <h1 className="new-domain">akhi.theatom.lk</h1>
+      </a>
       
       <p className="description">
         We've moved to a new permanent home. <br />
