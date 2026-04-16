@@ -15,10 +15,6 @@
 ![Akhi AI](https://img.shields.io/badge/Akhi-AI-C9A961?style=for-the-badge&logo=book&logoColor=white)
 
 <br />
-
-<img src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/5e81f1147253507.62c08a9a8bd2a.png" width="180" height="180" style="border-radius: 40px" />
-
-<br />
 <br />
 
 **Faith meets Intelligence.**
@@ -91,17 +87,6 @@ Cutting-edge AI tools designed for modern utility:
 -   **Distraction-Free UI**: Engaging typewriter effects and smooth animations.
 -   **Typography**: Legible, beautiful Arabic and English typefaces (Amiri, Cairo).
 -   **Theme**: A color palette inspired by classical Islamic art (Gold, Deep Green, Parchment).
-
----
-
-## 🛠 Tech Stack
-
-| Layer | Technology |
-|-------|------------|
-| **Framework** | Next.js 14+ (App Router) |
-| **Language** | TypeScript |
-| **Styling** | Pure CSS3, Glassmorphism Design System |
-| **Logic** | Custom LLM Fine-tuning & Secure APIs |
 
 ---
 
